@@ -26,7 +26,7 @@ class bus():
             self.seats=self.seats-user
                 
         else:
-            print("no seats available")
+            print("no seats")
         
         
     
